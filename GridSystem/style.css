@@ -1,0 +1,25 @@
+.main{
+
+
+    justify-content: center;
+    background-color: chocolate;
+}
+
+
+.leftSide{
+    justify-content: center;
+    background-color: aliceblue;
+    /* padding: 100px;  */
+}
+
+
+.rightSide{
+    justify-content: center;
+    background-color: aqua;
+    /* padding: 100px; */
+
+}
+
+.forgotPassword{
+ padding: 25%;
+}
